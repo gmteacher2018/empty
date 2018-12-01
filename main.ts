@@ -15,7 +15,7 @@ namespace basic {
     export function camlCaseTwo() {
 
     }
-
+    //% block
     export function smiles() {
         basic.showLeds(`
         # . . . #
