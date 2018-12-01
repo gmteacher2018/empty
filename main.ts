@@ -1,6 +1,6 @@
 
 
-namespace mrelliott {
+namespace basic {
 
     //% block weight=100 
     export function helloWorld() {
