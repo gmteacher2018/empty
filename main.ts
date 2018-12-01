@@ -1,7 +1,7 @@
 
 
 //% color="#AA278D"
-namespace basic {
+namespace mrelliott {
 
     //% block
     export function helloWorld() {
@@ -28,3 +28,4 @@ namespace basic {
     }
 
 }
+
