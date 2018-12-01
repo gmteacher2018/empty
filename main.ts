@@ -1,4 +1,9 @@
 
+// Auto-generated. Do not edit.
+declare namespace mr2 {
+}
+
+// Auto-generated. Do not edit. Really.
 
 namespace basic {
 
