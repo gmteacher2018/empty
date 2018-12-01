@@ -5,7 +5,7 @@ declare namespace mr2 {
 
 // Auto-generated. Do not edit. Really.
 
-namespace basic {
+namespace mrelliott {
 
     //% block weight=100 
     export function helloWorld() {
