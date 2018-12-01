@@ -4,7 +4,7 @@ declare namespace mrelliott {
 }
 
 // Auto-generated. Do not edit. Really.
-
+//% color="#AA278D"
 namespace mrelliott {
 
     //% block weight=100 
