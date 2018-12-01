@@ -1,6 +1,6 @@
 
 // Auto-generated. Do not edit.
-declare namespace mr2 {
+declare namespace mrelliott {
 }
 
 // Auto-generated. Do not edit. Really.
