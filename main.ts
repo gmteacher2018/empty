@@ -7,13 +7,6 @@ namespace basic {
 
     }
 
-    // note that Caml casing yields lower case
-    // block text with spaces
-
-    //% block
-    export function camlCaseTwo() {
-
-    }
     //% block
     export function smiles() {
         basic.showLeds(`
