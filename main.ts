@@ -8,21 +8,3 @@ function smiles() {
         `)
     basic.showIcon(IconNames.No)
 }
-basic.showLeds(`
-    . . . . .
-    . # . # .
-    . . . . .
-    # . . . #
-    . # # # .
-    `)
-
-basic.forever(function () {
-    basic.showLeds(`
-        # . . . #
-        . . . . .
-        # . . . #
-        . # . # .
-        . . # . .
-        `)
-    basic.showIcon(IconNames.No)
-})
