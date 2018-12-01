@@ -1,6 +1,5 @@
 
-
-//% color="#AA278D" weight=100
+//% color="#AA278D" wieght=100
 namespace mrelliott {
 
     //% block
