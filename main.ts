@@ -2,7 +2,7 @@
 
 namespace basic {
 
-    //% block
+    //% block weight=100 
     export function helloWorld() {
 
     }
